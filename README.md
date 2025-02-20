@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Este projeto é uma página web desktop com informações sobre um local turístico.
-Esse é um dos desafios práticos da formação Fullstack, um de nossos conteúdos de especialização.
+Desafios práticos da formação Fullstack.
